@@ -65,6 +65,10 @@ fitzone/
 
 ## 📷 Screenshots
 
+!![Home Page Web View](<images/Screenshot 2025-04-22 130600.png>)
+![Home Page Mobile View](<images/Screenshot 2025-04-22 144556.png>)
+![Navbar Mobile View](<images/Screenshot 2025-04-22 144620.png>)
+
 ## 🧪 Testing
 
 Testing was performed using:
