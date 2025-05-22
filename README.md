@@ -63,6 +63,8 @@ fitzone/
 ├── home.php
 └── README.md
 
+## 📷 Screenshots
+
 ## 🧪 Testing
 
 Testing was performed using:
