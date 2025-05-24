@@ -95,8 +95,8 @@ Testing was performed using:
 ## 🙋‍♂️ Author
 
 **Tharindu Theekshana**  
-Contact: [your-thariduthikshana4.com]  
-GitHub: [github.com/Tharindu-Theekshana]
+-Contact: thariduthikshana4.com
+-GitHub: github.com/Tharindu-Theekshana
 
 ---
 
